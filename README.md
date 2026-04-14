@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hey, I'm Shwetha 👋
 
-<!--
-**ss1705/ss1705** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Graduate CS student at USC, passionate about NLP, LLMs, and making AI systems fairer and smarter.
 
-Here are some ideas to get you started:
+## 🧠 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 MS Computer Science @ University of Southern California
+- 🔬 Researching **bias in medical LLMs** (SDOH-focused evaluation)
+- 🤖 Building multi-agent LLM orchestration systems
+- 📍 Based in Los Angeles, CA
+
+## 🔭 Current Projects
+
+- **SDOH Bias Study** — Evaluating LLM responses for social determinants of health bias
+- **Multi-Agent LLM Orchestration** — Designing collaborative agent pipelines
+- **Job Tracker App** — Full-stack job application tracker deployed on Vercel
+
+## 🛠️ Tech Stack
+
+**Languages:** Python · JavaScript/TypeScript · SQL · LaTeX  
+**ML/NLP:** PyTorch · Transformers · LSTM · CNN · Named Entity Recognition  
+**Tools:** Git · VSCode · Google Colab · PostgreSQL  
+**APIs:** Groq · OpenRouter · Google AI
+
+## 📚 Research Interests
+
+- LLM fairness, bias, and evaluation
+- NLP architectures and fine-tuning
+- Reinforcement Learning from Human Feedback (RLHF)
+- Algorithm design (Dynamic Programming, Network Flow)
+
+## 📫 Let's Connect
+
+Feel free to explore my repos or reach out!
