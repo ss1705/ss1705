@@ -13,7 +13,7 @@ Graduate CS student at USC, passionate about NLP, LLMs, and making AI systems fa
 
 - **SDOH Bias Study** — Evaluating LLM responses for social determinants of health bias
 - **Multi-Agent LLM Orchestration** — Designing collaborative agent pipelines
-- **Job Tracker App** — Full-stack job application tracker deployed on Vercel
+- **Job Tracker App** — Full-stack job application tracker (just lives on my computer for now)
 
 ## 🛠️ Tech Stack
 
@@ -27,7 +27,6 @@ Graduate CS student at USC, passionate about NLP, LLMs, and making AI systems fa
 - LLM fairness, bias, and evaluation
 - NLP architectures and fine-tuning
 - Reinforcement Learning from Human Feedback (RLHF)
-- Algorithm design (Dynamic Programming, Network Flow)
 
 ## 📫 Let's Connect
 
