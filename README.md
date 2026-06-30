@@ -1,33 +1,31 @@
 # Hey, I'm Shwetha 👋
-
-Graduate CS student at USC, passionate about NLP, LLMs, and making AI systems fairer and smarter.
+Graduate CS student at USC, working at the intersection of data engineering and ML — building systems that retrieve, rank, and recommend.
 
 ## 🧠 About Me
-
-- 🎓 MS Computer Science @ University of Southern California
+- 🎓 MS Computer Science (AI) @ University of Southern California
+- 💼 AI Engineer Intern @ Hyperionsoft — building production AI applications for drug discovery
+- 💼 Assistant Database Management Analyst @ USC Hospitality BDO
 - 🔬 Researching **bias in medical LLMs** (SDOH-focused evaluation)
-- 🤖 Building multi-agent LLM orchestration systems
+- 🎵 Building a hybrid retrieval + reranking music recommendation system
 - 📍 Based in Los Angeles, CA
 
 ## 🔭 Current Projects
-
-- **SDOH Bias Study** — Evaluating LLM responses for social determinants of health bias
-- **Multi-Agent LLM Orchestration** — Designing collaborative agent pipelines
-- **Job Tracker App** — Full-stack job application tracker (just lives on my computer for now)
+- **[Mood2Music](https://github.com/ss1705/Mood2Music)** — Mood-based music recommender with a hybrid retrieve-then-rerank architecture: sentence-transformer + FAISS retrieval over a cleaned FMA/Echonest catalog, CLAP audio embeddings for energy/arousal signal, and a valence-penalty reranker on top
+- **NYC Taxi Streaming Pipeline** — Kafka (KRaft) producer streaming NYC TLC trip data, PySpark Structured Streaming for feature engineering, DuckDB sink, with dbt transformations, a Streamlit dashboard, and Prophet forecasting in progress
+- **Task-Aware Orchestration for LLM Councils** — Semester-long research project on task-aware LLM routing; built Python tooling to evaluate accuracy, latency, and cost across 12 LLMs, 5 benchmarks, and 4 routing policies
+- **SDOH Bias in LLM Clinical Responses** — Prompt-based bias evaluation framework across 3 LLMs and 5 SDOH conditions; presented at ShowCAIS 2026, USC
 
 ## 🛠️ Tech Stack
-
-**Languages:** Python · JavaScript/TypeScript · SQL · LaTeX  
-**ML/NLP:** PyTorch · Transformers · LSTM · CNN · Named Entity Recognition  
+**Languages:** Python · SQL · JavaScript/TypeScript · LaTeX  
+**ML/NLP:** PyTorch · HuggingFace Transformers · Sentence-Transformers · CLAP · FAISS  
+**Data Engineering:** dbt · Kafka · PySpark · DuckDB · AWS (S3, Glue, Redshift) · Streamlit  
 **Tools:** Git · VSCode · Google Colab · PostgreSQL  
 **APIs:** Groq · OpenRouter · Google AI
 
 ## 📚 Research Interests
-
 - LLM fairness, bias, and evaluation
-- NLP architectures and fine-tuning
-- Reinforcement Learning from Human Feedback (RLHF)
+- Retrieval and recommendation systems
+- Multi-agent / multi-LLM orchestration
 
 ## 📫 Let's Connect
-
 Feel free to explore my repos or reach out!
