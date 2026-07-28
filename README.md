@@ -5,7 +5,6 @@ Graduate CS student at USC, working at the intersection of data engineering and 
 - 🎓 MS Computer Science (AI) @ University of Southern California
 - 💼 AI Engineer Intern @ Hyperionsoft — building production AI applications for drug discovery
 - 💼 Assistant Database Management Analyst @ USC Hospitality BDO
-- 🔬 Researching **bias in medical LLMs** (SDOH-focused evaluation)
 - 🎵 Building a hybrid retrieval + reranking music recommendation system
 - 📍 Based in Los Angeles, CA
 
